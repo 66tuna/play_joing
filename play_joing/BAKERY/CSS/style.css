@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sHead{
+    position: fixed;
+    width: 90px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+}
+
+.sHead .log{
+    padding-top: 10px;
+    width: 100%;
+}
+
+.sHead .global{
+    width: 100%;
+    height: 210px;
+}
+
+
+.bHead{
+    display: none;
+}
